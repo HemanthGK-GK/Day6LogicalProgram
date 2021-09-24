@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\Fibbonacci\bin\Debug\netcoreapp3.1\Fibbonacci.exe
+C:\Users\91807\Desktop\Batch67\Fibbonacci\bin\Debug\netcoreapp3.1\Fibbonacci.deps.json
+C:\Users\91807\Desktop\Batch67\Fibbonacci\bin\Debug\netcoreapp3.1\Fibbonacci.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\Fibbonacci\bin\Debug\netcoreapp3.1\Fibbonacci.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\Fibbonacci\bin\Debug\netcoreapp3.1\Fibbonacci.dll
+C:\Users\91807\Desktop\Batch67\Fibbonacci\bin\Debug\netcoreapp3.1\Fibbonacci.pdb
+C:\Users\91807\Desktop\Batch67\Fibbonacci\obj\Debug\netcoreapp3.1\Fibbonacci.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\Fibbonacci\obj\Debug\netcoreapp3.1\Fibbonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\Fibbonacci\obj\Debug\netcoreapp3.1\Fibbonacci.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\Fibbonacci\obj\Debug\netcoreapp3.1\Fibbonacci.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\Fibbonacci\obj\Debug\netcoreapp3.1\Fibbonacci.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\Fibbonacci\obj\Debug\netcoreapp3.1\Fibbonacci.dll
+C:\Users\91807\Desktop\Batch67\Fibbonacci\obj\Debug\netcoreapp3.1\Fibbonacci.pdb
+C:\Users\91807\Desktop\Batch67\Fibbonacci\obj\Debug\netcoreapp3.1\Fibbonacci.genruntimeconfig.cache
