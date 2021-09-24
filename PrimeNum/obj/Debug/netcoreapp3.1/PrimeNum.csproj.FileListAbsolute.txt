@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.exe
+C:\Users\91807\Desktop\Batch67\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.deps.json
+C:\Users\91807\Desktop\Batch67\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.dll
+C:\Users\91807\Desktop\Batch67\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.pdb
+C:\Users\91807\Desktop\Batch67\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.dll
+C:\Users\91807\Desktop\Batch67\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.pdb
+C:\Users\91807\Desktop\Batch67\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.genruntimeconfig.cache
