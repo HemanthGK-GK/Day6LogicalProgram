@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\DecimaltoBinary\bin\Debug\netcoreapp3.1\DecimaltoBinary.exe
+C:\Users\91807\Desktop\Batch67\DecimaltoBinary\bin\Debug\netcoreapp3.1\DecimaltoBinary.deps.json
+C:\Users\91807\Desktop\Batch67\DecimaltoBinary\bin\Debug\netcoreapp3.1\DecimaltoBinary.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\DecimaltoBinary\bin\Debug\netcoreapp3.1\DecimaltoBinary.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\DecimaltoBinary\bin\Debug\netcoreapp3.1\DecimaltoBinary.dll
+C:\Users\91807\Desktop\Batch67\DecimaltoBinary\bin\Debug\netcoreapp3.1\DecimaltoBinary.pdb
+C:\Users\91807\Desktop\Batch67\DecimaltoBinary\obj\Debug\netcoreapp3.1\DecimaltoBinary.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\DecimaltoBinary\obj\Debug\netcoreapp3.1\DecimaltoBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\DecimaltoBinary\obj\Debug\netcoreapp3.1\DecimaltoBinary.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\DecimaltoBinary\obj\Debug\netcoreapp3.1\DecimaltoBinary.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\DecimaltoBinary\obj\Debug\netcoreapp3.1\DecimaltoBinary.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\DecimaltoBinary\obj\Debug\netcoreapp3.1\DecimaltoBinary.dll
+C:\Users\91807\Desktop\Batch67\DecimaltoBinary\obj\Debug\netcoreapp3.1\DecimaltoBinary.pdb
+C:\Users\91807\Desktop\Batch67\DecimaltoBinary\obj\Debug\netcoreapp3.1\DecimaltoBinary.genruntimeconfig.cache
