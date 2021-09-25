@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\TempConversion\bin\Debug\netcoreapp3.1\TempConversion.exe
+C:\Users\91807\Desktop\Batch67\TempConversion\bin\Debug\netcoreapp3.1\TempConversion.deps.json
+C:\Users\91807\Desktop\Batch67\TempConversion\bin\Debug\netcoreapp3.1\TempConversion.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\TempConversion\bin\Debug\netcoreapp3.1\TempConversion.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\TempConversion\bin\Debug\netcoreapp3.1\TempConversion.dll
+C:\Users\91807\Desktop\Batch67\TempConversion\bin\Debug\netcoreapp3.1\TempConversion.pdb
+C:\Users\91807\Desktop\Batch67\TempConversion\obj\Debug\netcoreapp3.1\TempConversion.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\TempConversion\obj\Debug\netcoreapp3.1\TempConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\TempConversion\obj\Debug\netcoreapp3.1\TempConversion.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\TempConversion\obj\Debug\netcoreapp3.1\TempConversion.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\TempConversion\obj\Debug\netcoreapp3.1\TempConversion.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\TempConversion\obj\Debug\netcoreapp3.1\TempConversion.dll
+C:\Users\91807\Desktop\Batch67\TempConversion\obj\Debug\netcoreapp3.1\TempConversion.pdb
+C:\Users\91807\Desktop\Batch67\TempConversion\obj\Debug\netcoreapp3.1\TempConversion.genruntimeconfig.cache
